@@ -1,0 +1,30 @@
+_repo: Rede-zum-Schuljahresabschlu--am-29.-September-1809_6728
+_version: 0.0.1
+alternative_title: Rede zum Schuljahresabschluss am 29. September 1809
+creator:
+  author:
+    agent_name: Hegel, Georg Wilhelm Friedrich
+    alias: Hegel, G. W. F. (Georg Wilhelm Friedrich)
+    birthdate: 1770
+    deathdate: 1831
+    gutenberg_agent_id: '2161'
+    url: http://www.gutenberg.org/2009/agents/2161
+    wikipedia: http://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel
+description: ''
+gutenberg_bookshelf:
+- DE Sachbuch
+- German Language Books
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6728'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Speeches, addresses, etc.'
+- !lcc 'B'
+- GITenberg
+title: Rede zum Schuljahresabschluß am 29. September 1809
+url: http://www.gutenberg.org/ebooks/6728
